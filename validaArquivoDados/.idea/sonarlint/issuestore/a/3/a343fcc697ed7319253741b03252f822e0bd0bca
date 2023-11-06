@@ -1,0 +1,21 @@
+
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ëÏËÚ¹1
+R
+java:S6397	"5Replace this character class by the character itself.(âºÍ†8ûÏËÚ¹1
+W
+java:S6397"5Replace this character class by the character itself.(ˆ€‰ııÿÿÿÿ8ıÏËÚ¹1
+G	java:S106"+Replace this use of System.out by a logger.(‹åøÅ8şÏËÚ¹1
+R
+java:S6397"5Replace this character class by the character itself.(´®•»8ĞËÚ¹1
+F	java:S106"+Replace this use of System.out by a logger.(§¢8‚ĞËÚ¹1
+Q
+java:S6397"5Replace this character class by the character itself.(³ÃÊI8…ĞËÚ¹1
+L	java:S106"+Replace this use of System.out by a logger.(òŒà­ıÿÿÿÿ8…ĞËÚ¹1
+R
+java:S6397"5Replace this character class by the character itself.(“ÂÛÕ8†ĞËÚ¹1
+L	java:S106 "+Replace this use of System.out by a logger.(”óÌÜûÿÿÿÿ8†ĞËÚ¹1
+W
+java:S6397$"5Replace this character class by the character itself.(¯¹Ì½ıÿÿÿÿ8‡ĞËÚ¹1
+G	java:S106%"+Replace this use of System.out by a logger.(á»˜­8‡ĞËÚ¹1
+G	java:S106+"+Replace this use of System.out by a logger.(Ã•­¶8ˆĞËÚ¹1

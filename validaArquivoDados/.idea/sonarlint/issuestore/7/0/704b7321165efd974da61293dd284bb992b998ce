@@ -1,0 +1,13 @@
+
+[
+java:S5993
+"9Change the visibility of this constructor to "protected".(©»ÕÃıÿÿÿÿ8Á†Ú¹1
+[
+java:S5993"9Change the visibility of this constructor to "protected".(Ñ¼¸˜øÿÿÿÿ8Â†Ú¹1
+O
+java:S1172"-Remove this unused method parameter "numero".(Ñ¼¸˜øÿÿÿÿ8Ç†Ú¹1
+b
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(ñ“õµ8Ë†Ú¹1
+n
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(¥¹ Ü8Ì†Ú¹1
+G	java:S106&"+Replace this use of System.out by a logger.(¥¹ Ü8Í†Ú¹1

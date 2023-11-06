@@ -1,0 +1,1 @@
+gradle bootRun --args='nome=Edison123123'

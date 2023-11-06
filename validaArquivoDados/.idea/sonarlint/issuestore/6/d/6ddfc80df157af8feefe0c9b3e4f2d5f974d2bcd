@@ -1,0 +1,14 @@
+
+|
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "br".(õÃ—úýÿÿÿÿ8„ü”Ú¹1
+i
+java:S2095!"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€8÷øªÚ¹1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üüÛÂùÿÿÿÿ8÷øªÚ¹1
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(º©Ïíüÿÿÿÿ8‰ü”Ú¹1
+[
+java:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(Ä½à“8‘ü”Ú¹1
+`
+java:S4719 ">Replace charset name argument with StandardCharsets.ISO_8859_1(–ì¾Ýýÿÿÿÿ8”ü”Ú¹1
+L	java:S106K"+Replace this use of System.out by a logger.(ÈÎ¦«ÿÿÿÿÿ8—ü”Ú¹1
